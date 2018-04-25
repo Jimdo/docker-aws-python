@@ -10,6 +10,7 @@
 ### Usage
 
 ```Dockerfile
+
 # Dockerfile
 FROM jimdo/aws-python
 ```
@@ -17,6 +18,10 @@ FROM jimdo/aws-python
 ### Contribute
 
 ```bash
+# Clone repository
+$ > git clone git@github.com:Jimdo/docker-aws-python.git
+$ > cd docker-aws-python
+
 # Build container
 $ > docker build . 
 
