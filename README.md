@@ -9,9 +9,16 @@
 
 ### Usage
 
+```Dockerfile
+FROM jimdo/aws-python
+```
+
+### Contribute
+
 ```bash
 # Build container
 $ > docker build . 
 
 # Start bash
 $ > docker run -it --entrypoint /bin/bash <container-id>
+
