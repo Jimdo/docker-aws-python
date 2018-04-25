@@ -1,6 +1,6 @@
 # docker-aws-python
 
-[![Docker Stars](https://img.shields.io/docker/stars/jimdo/docker-aws-python.svg?maxAge=600)](https://hub.docker.com/r/jimdo/docker-aws-python/) [![Docker Pulls](https://img.shields.io/docker/pulls/jimdo/docker-aws-python.svg?maxAge=600)](https://hub.docker.com/r/jimdo/docker-aws-python/)
+[![Docker Stars](https://img.shields.io/docker/stars/jimdo/aws-python.svg?maxAge=600)](https://hub.docker.com/r/jimdo/aws-python/) [![Docker Pulls](https://img.shields.io/docker/pulls/jimdo/aws-python.svg?maxAge=600)](https://hub.docker.com/r/jimdo/aws-python/)
 
 ### Content
 
