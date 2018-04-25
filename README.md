@@ -19,12 +19,15 @@ FROM jimdo/aws-python
 
 ```bash
 # Clone repository
+
 $ > git clone git@github.com:Jimdo/docker-aws-python.git
 $ > cd docker-aws-python
 
 # Build container
+
 $ > docker build . 
 
 # Start bash
-$ > docker run -it --entrypoint /bin/bash <container-id>
 
+$ > docker run -it --entrypoint /bin/bash <container-id>
+```
