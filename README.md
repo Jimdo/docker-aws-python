@@ -6,6 +6,7 @@
 
  * `aws-cli/1.15.8 Python/3.6.3 Linux/4.9.87-linuxkit-aufs botocore/1.10.8`
  * `Python 3.6.3`
+ * `Docker version 18.03.0-ce, build 0520e24`
 
 ### Usage
 
