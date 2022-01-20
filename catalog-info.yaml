@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: docker-aws-python
+  annotations:
+    github.com/project-slug: Jimdo/docker-aws-python
+spec:
+  type: other
+  lifecycle: unknown
+  owner: creator
